@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H10, H11, H2, H3, H4, H5, H6, H7, H8, H9",MountingHole_2mm,11,Mounting_Hole,
+J1,OLED_128x64,1,OLED_128x64,
+"S1, S10, S11, S12, S13, S2, S3, S4, S5, S6, S7, S8, S9",Hotswap_MX_1.00u,13,Keyswitch,
+"SW1, SW2, SW3, SW4",SW_1825910-6-4,4,1825910-6,
+U1,Arduino_Pro_Micro,1,Arduino_Pro_Micro,
